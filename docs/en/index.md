@@ -16,9 +16,10 @@ Features:
 Limitations:
  * Each subsite domain name has to be set up on the server first
  * A subsite cannot use a different codebase as the main site, they are intrinsically tied
+   * However, you can remove page types from a subsite when creating the subsite - [see the setup documentation for further details](set_up.md)
  * The only code a developer can edit between subsites is the theme
 
 This document assumes that you have full admin rights for your site.
 
- 1. [Setting up subsites](set_up)
- 2. [Working with subsites](working_with)
+ 1. [Setting up subsites](set_up.md)
+ 2. [Working with subsites](working_with.md)
