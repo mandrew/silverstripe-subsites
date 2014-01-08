@@ -24,7 +24,8 @@ A useful way to think of its use is where you have a business with a global head
 
 If more isolation of code, security, or performance is needed, then consider running multiple separate installations (e.g. on separate servers).
 
-This document assumes that you have full admin rights for your site.
+*This document assumes that you have full admin rights for your site.*
 
+## Further Documentation
  1. [Setting up subsites](set_up.md)
  2. [Working with subsites](working_with.md)
